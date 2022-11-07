@@ -13,16 +13,16 @@ function App(props) {
   const array = {
     start: {
       play: () => {
-        setIndex(prevState => 'sit1');
+        setIndex(prevState => '1');
         return "The story takes place in a utopia Ihleda with a dark secret:- The balance of the utopia's happiness Is caused by entrapping the Saint Maglena within a secret location of the headquarters. The story centresw around 17 yr old Anubis, who is tasked with setting Amglena free after he receivers a message from the saint within a dream."
     }
 	
 			,
 
     },
-		sit1: {
+		1: {
 			a: () =>{
-				setIndex(prevState => 'sit2');
+				setIndex(prevState => '1.1');
 				return 'a option'
 			},
 			b: () => {
@@ -31,7 +31,7 @@ function App(props) {
 			},
 
 		},
-		sit2: {
+		1.1: {
 			a: () => {
 				setIndex(prevState => prevState + 1);
 				return 'a situation'
