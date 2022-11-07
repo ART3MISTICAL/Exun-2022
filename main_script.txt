@@ -1,24 +1,31 @@
 Exit Armageddon
+
 The story takes place in a utopia Ihleda with a dark secret:- The balance of the utopia’s happiness Is
 caused by entrapping the Saint Maglena within a secret location of the headquarters. The story
-centresw around 17 yr old Anubis, who is tasked with setting Amglena free after he receivers a
+centres around 17 yr old Anubis, who is tasked with setting Amglena free after he receivers a
 message from the saint within a dream.
-First Choice:
 Anubis wakes up from a dream and recounts the prophecy he received in his dream: He is meant to
 find Maglena and set him free from a place named Armageddon that he doesn’t know the location
 of.
-He is offered two choices: Look for Armageddon in the Ihleda national library maps
-Ask his father (the president of Ilheda) about Armageddon
+
+He is offered two choices: 
+1)Look for Armageddon in the Ihleda national library maps
+2) Ask his father (the president of Ilheda) about Armageddon
 If choice two is chosen, The father will refuse to tell Anubis the location and ground him… the player
 will be returned back to the choices.
+
 Choice 1 onwards: Once in the library, Anubis finally finds an ancient scripture that shows that
-Armageddon is a basement beneath the headquarters of the utopia, where Maglena waqs trapped
+Armageddon is a basement beneath the headquarters of the utopia, where Maglena was trapped
 by his trival Yacub. The script gives you two maps:
-One through the forest
-One through the city market
+
+1)One through the forest
+
+2)One through the city market
+
 Forest: You enter through the forest and see a huge cherry blossom tree. Rather unusual.
 Break a branch of the tree.
 Transported to Armageddon gates.
+
 Market: While travelling through the markets, you find a cherry blossom branch in the streets.
 Untouched. Ignored.
 Pick branch.
@@ -29,7 +36,7 @@ Use Cherry blossom to return to home.
 Weapon: You defeat the zombies.
 Home: start over
 After defeating, you set to free Maglena… but he warns you that Yacub is behind you.
-You turn out to find the great nemesi, the evil yacub.
+You turn out to find the great nemesis, the evil yacub.
 He is rather… familiar.
 Almost too familiar.
 
