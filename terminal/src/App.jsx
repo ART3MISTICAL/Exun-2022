@@ -4,6 +4,9 @@ import Terminal from "./components/terminal";
 function App() {
   return (
     <>
+      <div className="ct">
+				Press F11 for fullscreen
+			</div>
       <div className="parent">
         {/*<img className="monitor" src={frame} alt="monitor-frames" />*/}
         {/*<img className="frame"

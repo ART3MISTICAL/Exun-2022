@@ -10,7 +10,10 @@ function App(props) {
 		<div className="terminal-space">
 			<ReactTerminal className="terminal"
 				commands={commands}
-				theme="dark"
+				theme = "material-dark"
+				showControlBar = {false}
+				prompt = '>'
+				welcomeMessage = 'Type "play" to play'
 			/>
 		</div>
 	);
