@@ -2,21 +2,21 @@ Exit Armageddon
 
 The story takes place in a utopia Ihleda with a dark secret:- The balance of the utopia’s happiness Is
 caused by entrapping the Saint Maglena within a secret location of the headquarters. The story
-centres around 17 yr old Anubis, who is tasked with setting Amglena free after he receivers a
+centres around 17 yr old Anubis, who is tasked with setting Maglena free after he receivers a
 message from the saint within a dream.
-Anubis wakes up from a dream and recounts the prophecy he received in his dream: He is meant to
+Anubis(you) wakes up from a dream and recounts the prophecy he received in his dream: He is meant to
 find Maglena and set him free from a place named Armageddon that he doesn’t know the location
 of.
 
 He is offered two choices: 
 1)Look for Armageddon in the Ihleda national library maps
 2) Ask his father (the president of Ilheda) about Armageddon
-If choice two is chosen, The father will refuse to tell Anubis the location and ground him… the player
+If choice two is chosen, The father will refuse to tell you the location and ground you… the player
 will be returned back to the choices.
 
-Choice 1 onwards: Once in the library, Anubis finally finds an ancient scripture that shows that
+Choice 1 onwards: Once in the library, you finally find an ancient scripture that shows that
 Armageddon is a basement beneath the headquarters of the utopia, where Maglena was trapped
-by his trival Yacub. The script gives you two maps:
+by his trival Yacub. The script gives you two maps. Choose one:
 
 1)One through the forest
 
@@ -25,23 +25,29 @@ by his trival Yacub. The script gives you two maps:
 Forest: You enter through the forest and see a huge cherry blossom tree. Rather unusual.
 Break a branch of the tree.
 Transported to Armageddon gates.
+You open the gates, and in come a flurry of zombies.
+You die because you chose to travel from the forest and didnt have a weapon
 
-Market: While travelling through the markets, you find a cherry blossom branch in the streets.
+Market: While travelling through the markets, you find a sword and a bow and arrow in the streets.
 Untouched. Ignored.
 Pick branch.
 Transported to Armageddon Gates.
 You open the gates, and in come a flurry of zombies.
-You have two choices: Use the cherry blossom as a weapon.
-Use Cherry blossom to return to home.
-Weapon: You defeat the zombies.
-Home: start over
+You have two choices: 
+a) Use sword to fight the zombies.
+b) Use bow and arrow to fight the zombies.
+c) Try to run away.
+
+Bow and arrow or sword: You defeat the zombies.
+Run away: start over
+
 After defeating, you set to free Maglena… but he warns you that Yacub is behind you.
 You turn out to find the great nemesis, the evil yacub.
 He is rather… familiar.
 Almost too familiar.
 
 Thus the great nemesis of Maglena was, infact, your father.
-Choices: Use Mystical Branch to defeat Yacub and help Maglena
+Choices: Use Sword to defeat Yacub and help Maglena
 Help Yacub Kill Maglena
 Endings
 Choice 2: With Maglena gone and nothing to sustain Ihleda, The utopia once again went back to
@@ -49,4 +55,5 @@ what it was before 2025… A desolate land. Eventually overtaking your father’
 evil wizard, you are shunned away from Ihleda by its citizens as they struggle to rebuild their lives
 after losing everything.
 Choice 1: Defeating your father, his title now belongs to you. But Maglena, the ever-forgiving and
-kind wizard, thanks you for your service and instead of being
+kind wizard, thanks you for your service and instead of being afraid.
+
