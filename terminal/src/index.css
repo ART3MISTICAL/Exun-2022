@@ -31,6 +31,14 @@ code {
 
 .parent * {
   max-height: 47vh;
+  height: 47vh;
+}
+
+@media (max-width: 600px) {
+  .parent {
+    padding-top: 15%;
+    max-width: 75%;
+  }
 }
 /*
 .monitor {
