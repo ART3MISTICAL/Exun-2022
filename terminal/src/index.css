@@ -1,13 +1,18 @@
-* {
-  max-height: 50px;
-}
-* body {
+body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /*padding-top: 200px;*/
+  background-color: black;
+  background-image: url("monitor.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: screen;
+  width: screen;
 }
 
 code {
@@ -15,14 +20,49 @@ code {
     monospace;
 }
 
-.terminal-space {
-  margin-top: 100px;
+.parent {
+  padding-top: 8%;
+  /*width: 100%;*/
+  /*height: 100%;*/
+  max-width: 34%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.terminal {
-  /* width: 200px; */
+.parent * {
+  max-height: 47vh;
+  height: 47vh;
 }
 
-.terminal {
-  max-height: 40px;
+@media (max-width: 600px) {
+  .parent {
+    padding-top: 15%;
+    max-width: 75%;
+  }
+}
+/*
+.monitor {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px solid #000000;
+}
+
+.term {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  border: 1px solid #000000;
+}*/
+
+.frame {
+  background-size: cover;
+}
+
+.ct {
+  display: flex;
+  color: whitesmoke;
+  text-align: center;
+  width: screen;
+  justify-content: center;
 }
