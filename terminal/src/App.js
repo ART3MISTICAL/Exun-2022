@@ -1,16 +1,19 @@
-import React, { Component } from "react";
 import { ReactTerminal } from "react-terminal";
+import './terminal.module.css'
 
-class App extends Component {
-  showMsg = () => "Hello World";
 
-  render() {
-    return (
-      <div className="terminal-space">
-        
-      </div>
-    );
-  }
+function App(props) {
+	const commands = {
+		play: "jackharper",
+	};
+	return (
+		<div className="terminal-space">
+			<ReactTerminal className="terminal"
+				commands={commands}
+				theme="dark"
+			/>
+		</div>
+	);
 }
 
 export default App;
