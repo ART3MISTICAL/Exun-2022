@@ -36,11 +36,16 @@ function App(props) {
     1: {
       a: () => {
         setIndex((prevState) => "1.1");
-        return "a option";
+        return ["a option"];
       },
       b: () => {
-        setIndex((prevState) => prevState + 2);
-        return "b option";
+        setIndex((prevState) => "start");
+        return [
+          "The father refused to tell Anubis the location and grounded him…",
+          <br />,
+          <br />,
+          "Game over, Type 'play' to play again",
+        ];  
       },
     },
     1.1: {
