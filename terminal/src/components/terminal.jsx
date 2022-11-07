@@ -1,5 +1,5 @@
 import { ReactTerminal } from "react-terminal";
-import "../terminal.module.css";
+//import "../terminal.module.css";
 import React, { useState } from "react";
 
 function App(props) {
