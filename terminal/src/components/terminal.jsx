@@ -13,7 +13,7 @@ function App(props) {
 				theme = "material-dark"
 				showControlBar = {false}
 				prompt = '>'
-				welcomeMessage = 'Type "play" to play'
+				welcomeMessage = 'Type "play" to play '
 			/>
 		</div>
 	);
