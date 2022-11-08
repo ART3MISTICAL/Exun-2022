@@ -1,6 +1,4 @@
 from fastapi import FastAPI
-from pydantic import BaseModel
-from typing import Optional
 
 app = FastAPI()
 
@@ -32,19 +30,19 @@ db = [
         {
             'name': "Prince of Persia",
             'link': "https://www.retrogames.cz/play_102-DOS.php",
-            'img': 'princeOfPersia',
+            'img': 'https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4kvUGP06XxwIDPMDgrganQ/d022a2a43a52926fc81f9c8784d24f1b/media0.jpg',
             'description': "Prince of persia is built around a series of action-adventure games focused on various incarnations of the eponymous Prince, set in ancient and medieval Persia",
         },
         {
             'name': "Street Fighter",
             'link': "https://www.retrogames.cz/play_304-SNES.php",
-            'img': 'street_fighter',
+            'img': 'https://i.ytimg.com/vi/XS5R1g1U_Jw/maxresdefault.jpg',
             'description': "The player controls martial artist Ryu to compete in a worldwide martial arts tournament spanning five countries and 10 opponents",
         },
         {
             'name': "Sonic The HedgeHog",
             'link': "https://www.retrogames.cz/play_117-Genesis.php",
-            'img': 'sonic',
+            'img': 'https://i.ytimg.com/vi/WNIOfIGVezc/sddefault.jpg',
             'description': "Sonic is an anthropomorphic blue hedgehog who can run at supersonic speeds and curl into a ball, primarily to attack enemies. In most games, Sonic must race through levels, collecting power-up rings and avoiding obstacles and enemies",
         },
 ]
