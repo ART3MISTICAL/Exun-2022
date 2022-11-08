@@ -21,7 +21,7 @@ db = [
   'link':
   "https://tetris.com/play-tetris/",
   'img':
-  'https://images.unsplash.com/photo-1646708198974-4c4893e8a2d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
+  'https://i.ytimg.com/vi/25tt1l23PBc/maxresdefault.jpg',
   'description':
   "Tetris, video game created by Russian designer Alexey Pajitnov in 1985 that allows players to rotate falling blocks strategically to clear levels",
  },
